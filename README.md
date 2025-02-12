@@ -1,2 +1,6 @@
 # Campus42_Programming-School
 Formación intensiva en programación, basada en aprendizaje autónomo y colaborativo. Metodología práctica orientada a proyectos, con enfoque en resolución de problemas y desarrollo de habilidades clave para el sector tecnológico.
+
+EN - Campus 42 is a global network of programming schools based on self-directed and collaborative learning, without traditional teachers or classes. It offers a practical methodology focused on projects and key skills for the tech industry. 42 Málaga, part of this network, fosters the development of tech talent, connecting students with local companies and providing a modern, innovative space to learn programming, cybersecurity, artificial intelligence, and more.🖥️🌐
+
+ES - Campus 42 es una red global de escuelas de programación, basadas en el aprendizaje autónomo y colaborativo, sin profesores ni clases tradicionales. Ofrecen una metodología práctica centrada en proyectos y habilidades clave para el sector tecnológico. 42 Málaga, parte de esta red, impulsa el desarrollo de talento tecnológico, conectando a los estudiantes con empresas locales y brindando un espacio moderno e innovador para aprender programación, ciberseguridad, inteligencia artificial y más. 🖥️🌐 
