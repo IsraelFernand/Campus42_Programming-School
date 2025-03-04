@@ -15,19 +15,19 @@ El objetivo es hacer que nuestra función funcione de manera similar a la origin
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Archivos que debemos crear para completar el ejercicio. 
 
-| Archivos creados  | ¿Porque |
+| Archivos creados  | Propósito |
 |-------------|---------------------------------------------------|
 |ft_printf.c  | (archivo principal donde definiremos la función)|
 |ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
 |Makefile     |  (para compilar la librería)|
-|ft_putchar.c | dfsdggsdgdfg |
-|ft_putnbr.c  | dsfjskdjdfjs |
-|ft_putstr.c  | sdfghdfgdsgs |
-|ft_strlen.c  | dfggdgdfhdfh |
-|ft_punt_hexa.c |dsfsdgdfsgdsgd |
-|ft_hexa_mayus.c |dfsdhjfga |
-|ft_hexa_min.c |dfsdgsdgdf |
-|ft_num_nosign.c | fsfsdhjfg |
+|ft_putchar.c | Implementa una función para imprimir un solo carácter en la salida estándar, utilizada en ft_printf |
+|ft_putnbr.c  | Implementa una función para imprimir números enteros en la salida estándar |
+|ft_putstr.c  | Implementa una función para imprimir cadenas de caracteres en la salida estándar |
+|ft_strlen.c  | Implementa una función que calcula la longitud de una cadena de caracteres. |
+|ft_punt_hexa.c |Implementa la conversión de punteros a su representación hexadecimal (%p). |
+|ft_hexa_mayus.c |Implementa la conversión de números a formato hexadecimal en mayúsculas (%X) |
+|ft_hexa_min.c |Implementa la conversión de números a formato hexadecimal en minúsculas (%x) |
+|ft_num_nosign.c | Implementa la impresión de números enteros sin signo (%u) |
 
 
 Se deben implementar las siguientes conversiones:
