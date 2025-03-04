@@ -13,6 +13,14 @@ Para lograrlo, el programa debe analizar el texto que se le pasa, detectar los f
 El objetivo es hacer que nuestra función funcione de manera similar a la original, asegurando que el código sea eficiente, estructurado y cumpla con las normas establecidas en el proyecto.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Archivos que debemos crear para completar el ejercicio. 
+
+| Archivos creados  | ¿Porque |
+|-------------|---------------------------------------------------|
+|ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
+|ft_printf.c  | (archivo principal donde definiremos la función)|
+|Makefile     |  (para compilar la librería)|
+
 
 Se deben implementar las siguientes conversiones:
 
@@ -41,9 +49,3 @@ Funciones autorizadas :
 | va_arg    | Saca el siguiente dato extra de la lista. |
 | va_copy   | Copia la lista de datos extra para usarla dos veces. |
 | va_end    | Termina y limpia la lista de datos extra. |
-
-| Archivos creados  | ¿Porque |
-|-------------|---------------------------------------------------|
-|ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
-|ft_printf.c  | (archivo principal donde definiremos la función)|
-|Makefile     |  (para compilar la librería)|
