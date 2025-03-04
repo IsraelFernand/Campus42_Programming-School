@@ -1,4 +1,4 @@
-EN - 🎯The printf project consists of creating our own version of the printf() function, which is used to display text and values on the screen. Instead of using the standard C function, we must program it from scratch, ensuring that it can handle different data types such as characters, strings, integers, and memory addresses.
+EN - 🎯 The printf project consists of creating our own version of the printf() function, which is used to display text and values on the screen. Instead of using the standard C function, we must program it from scratch, ensuring that it can handle different data types such as characters, strings, integers, and memory addresses.
 
 To achieve this, the program must analyze the given text, detect special formats like %d for numbers or %s for strings, and replace them with the corresponding values. Additionally, we will learn to work with functions that allow receiving a variable number of arguments.
 
