@@ -17,9 +17,17 @@ Archivos que debemos crear para completar el ejercicio.
 
 | Archivos creados  | ¿Porque |
 |-------------|---------------------------------------------------|
-|ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
 |ft_printf.c  | (archivo principal donde definiremos la función)|
+|ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
 |Makefile     |  (para compilar la librería)|
+|ft_putchar.c | dfsdggsdgdfg |
+|ft_putnbr.c  | dsfjskdjdfjs |
+|ft_putstr.c  | sdfghdfgdsgs |
+|ft_strlen.c  | dfggdgdfhdfh |
+|ft_punt_hexa.c |dsfsdgdfsgdsgd |
+|ft_hexa_mayus.c |dfsdhjfga |
+|ft_hexa_min.c |dfsdgsdgdf |
+|ft_num_nosign.c | fsfsdhjfg |
 
 
 Se deben implementar las siguientes conversiones:
