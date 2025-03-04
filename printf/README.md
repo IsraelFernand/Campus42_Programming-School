@@ -41,3 +41,9 @@ Funciones autorizadas :
 | va_arg    | Saca el siguiente dato extra de la lista. |
 | va_copy   | Copia la lista de datos extra para usarla dos veces. |
 | va_end    | Termina y limpia la lista de datos extra. |
+
+| Archivos creados  | ¿Porque |
+|-------------|---------------------------------------------------|
+|ft_printf.h  | (header con los prototipos de las funciones y macros necesarias)|
+|ft_printf.c  | (archivo principal donde definiremos la función)|
+|Makefile     |  (para compilar la librería)|
